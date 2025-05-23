@@ -21,7 +21,7 @@ def get_weather(city_name, api_key):
         return None
 
 # Example usage
-api_key = "your_api_key_here"
+api_key = "4644a13aa14565a63eb67a970f177924"
 city_name = "London"
 weather_data = get_weather(city_name, api_key)
 if weather_data:
